@@ -4,7 +4,7 @@ public class HelloWorldThreads extends Thread{
 
     @Override
     public void run(){
-        System.out.println("Hello from run: " + this.toString());
+        System.out.println("Hellofr om run: " + this.toString());
     }
 
     public static void main(String[] args){
